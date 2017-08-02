@@ -9,7 +9,7 @@ API tests are implemented on Java programming language using [Maven](https://mav
 
 Basically you need to run maven:
 
-git clone https://github.com/simplymahmoud/qa-automation-api.git
+git clone https://github.com/simplymahmoud/qa-testservices.git
 
 cd qa-testservices
 
